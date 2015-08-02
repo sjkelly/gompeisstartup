@@ -7,7 +7,7 @@ menu: true
 
 ## [Worcester on AngelList](https://angel.co/worcester)
 
-AngelList is a great way to get you company noticed and recruit for startups.
+Angellist is a great way to get you company noticed and recruit for startups.
 
 ## Postings
 

@@ -17,10 +17,14 @@ from WPI to join Voxel8 and later participate in the Owlspark Accelerator.
 I am just beginning to understand market validation and business development,
 and there is still much to learn. I have been exposed to the resources available
 to startups in Houston and Boston, and hope we can build similar foundations
-in Worcester. Over the next few months I will be forming a company to
-commercialize some of my work. As I find more information and resources I will
-share them here.
+in Worcester. This site is inspired by [startuphouston.com](http://startuphouston.com/) and
+[leanhouston.org](http://leanhouston.org/). People say Houston is "the biggest
+small city you will ever live in", which is not far from the truth because many
+groups around the city are well connected.
 
+Over the next few months I will be forming a company to
+commercialize some of my work while finishing my degree at WPI.
+As I find more information and resources I will share them here. 
 I hope this website will help others succeed in their business development
 or encourage the community to fill in the gaps. It is on
 [GitHub](https://github.com/sjkelly/startupthewoo) so there can be an open

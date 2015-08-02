@@ -14,6 +14,12 @@ and business.
 
 ### [Tech Advisors Network](http://www.wpi.edu/offices/tech-advisors-network.html)
 
-The WPI Tech Advisors Network provides advising and netwrok opportunities from
+The WPI Tech Advisors Network provides advising and network opportunities from
 WPI alumni, faculty, staff, and friends. They offer a three phase program for
 preperation, advising, and networking.
+
+### [The Collaborative for Entrepreneurship and Innovation](http://www.wpi.edu/offices/cei/about.html)
+
+Established in 1999, the CEI connects innovators at WPI with the resources
+needed for commercialization. They are home to many organizations and
+competitions.
